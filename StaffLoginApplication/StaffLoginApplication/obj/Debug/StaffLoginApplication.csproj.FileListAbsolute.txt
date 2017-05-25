@@ -1,0 +1,10 @@
+F:\Voilas\StaffLoginApplication\StaffLoginApplication\bin\Debug\StaffLoginApplication.exe.config
+F:\Voilas\StaffLoginApplication\StaffLoginApplication\bin\Debug\StaffLoginApplication.exe
+F:\Voilas\StaffLoginApplication\StaffLoginApplication\bin\Debug\StaffLoginApplication.pdb
+F:\Voilas\StaffLoginApplication\StaffLoginApplication\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\Voilas\StaffLoginApplication\StaffLoginApplication\obj\Debug\StaffLoginApplication.csprojResolveAssemblyReference.cache
+F:\Voilas\StaffLoginApplication\StaffLoginApplication\obj\Debug\StaffLoginApplication.Form1.resources
+F:\Voilas\StaffLoginApplication\StaffLoginApplication\obj\Debug\StaffLoginApplication.Properties.Resources.resources
+F:\Voilas\StaffLoginApplication\StaffLoginApplication\obj\Debug\StaffLoginApplication.csproj.GenerateResource.Cache
+F:\Voilas\StaffLoginApplication\StaffLoginApplication\obj\Debug\StaffLoginApplication.exe
+F:\Voilas\StaffLoginApplication\StaffLoginApplication\obj\Debug\StaffLoginApplication.pdb
